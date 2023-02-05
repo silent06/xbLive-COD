@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\xbLive.cpp" />
+    <ClCompile Include="src\stdafx.cpp" />
+    <ClCompile Include="src\backend\hooking.cpp">
+      <Filter>src\backend</Filter>
+    </ClCompile>
+    <ClCompile Include="src\backend\systemHooks.cpp">
+      <Filter>src\backend</Filter>
+    </ClCompile>
+    <ClCompile Include="src\backend\titleHooks.cpp">
+      <Filter>src\backend</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\engine.cpp">
+      <Filter>src\engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\game.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\menu.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\renderer.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenu.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenuHandler.cpp">
+      <Filter>src\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\buttonOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\colorOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\numberOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\option.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\scrollOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\submenuOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\options\toggleOption.cpp">
+      <Filter>src\menu\options</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\aimbotMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\hvhMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\mainMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\playersMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\settingsMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visualMenu.cpp">
+      <Filter>src\menu\submenus</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\color\colorEditorMenu.cpp">
+      <Filter>src\menu\submenus\color</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\main\gamertagManagerMenu.cpp">
+      <Filter>src\menu\submenus\main</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\main\gamertagsMenu.cpp">
+      <Filter>src\menu\submenus\main</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\players\editPlayerMenu.cpp">
+      <Filter>src\menu\submenus\players</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\settings\configMenu.cpp">
+      <Filter>src\menu\submenus\settings</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visual\compassMenu.cpp">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visual\crosshairMenu.cpp">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visual\espMenu.cpp">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visual\gameInfoMenu.cpp">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu\submenus\visual\indicatorMenu.cpp">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="src\security\functionObfuscation.cpp">
+      <Filter>src\security</Filter>
+    </ClCompile>
+    <ClCompile Include="src\security\nativeInvoker.cpp">
+      <Filter>src\security</Filter>
+    </ClCompile>
+    <ClCompile Include="src\security\natives.cpp">
+      <Filter>src\security</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\input\controller.cpp">
+      <Filter>src\utils\input</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\memory\memoryCacher.cpp">
+      <Filter>src\utils\memory</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\fibers.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\global.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\interface.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\log.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\patches.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\stdafx.h" />
+    <ClInclude Include="src\backend\hooking.h">
+      <Filter>src\backend</Filter>
+    </ClInclude>
+    <ClInclude Include="src\backend\systemHooks.h">
+      <Filter>src\backend</Filter>
+    </ClInclude>
+    <ClInclude Include="src\backend\titleHooks.h">
+      <Filter>src\backend</Filter>
+    </ClInclude>
+    <ClInclude Include="src\engine\engine.h">
+      <Filter>src\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\game.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\menu.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\renderer.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenu.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenuHandler.h">
+      <Filter>src\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\buttonOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\colorOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\numberOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\option.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\scrollOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\submenuOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\options\toggleOption.h">
+      <Filter>src\menu\options</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\aimbotMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\hvhMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\mainMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\playersMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\settingsMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visualMenu.h">
+      <Filter>src\menu\submenus</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\color\colorEditorMenu.h">
+      <Filter>src\menu\submenus\color</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\main\gamertagManagerMenu.h">
+      <Filter>src\menu\submenus\main</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\main\gamertagsMenu.h">
+      <Filter>src\menu\submenus\main</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\players\editPlayerMenu.h">
+      <Filter>src\menu\submenus\players</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\settings\configMenu.h">
+      <Filter>src\menu\submenus\settings</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visual\compassMenu.h">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visual\crosshairMenu.h">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visual\espMenu.h">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visual\gameInfoMenu.h">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\submenus\visual\indicatorMenu.h">
+      <Filter>src\menu\submenus\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu\utils\menuFunctions.h">
+      <Filter>src\menu\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\security\functionObfuscation.h">
+      <Filter>src\security</Filter>
+    </ClInclude>
+    <ClInclude Include="src\security\nativeInvoker.h">
+      <Filter>src\security</Filter>
+    </ClInclude>
+    <ClInclude Include="src\security\natives.h">
+      <Filter>src\security</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\input\controller.h">
+      <Filter>src\utils\input</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\memory\memoryCacher.h">
+      <Filter>src\utils\memory</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\enums.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\fibers.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\global.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\ini.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\interface.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\log.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\patches.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\structs.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Engine.def" />
+    <None Include="Engine.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{40577507-856e-4afa-9510-50be219434d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\backend">
+      <UniqueIdentifier>{a92c17b0-010f-49c2-b282-245f3e5f622a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\engine">
+      <UniqueIdentifier>{4600e81d-f69b-496f-b7df-d2bfa02ff6e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu">
+      <UniqueIdentifier>{3b540a80-9ad6-4031-a31c-89cca0bf974b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\security">
+      <UniqueIdentifier>{e7a7fbb5-46c5-48ce-974b-97c90b0c3ec9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{b2e9b64e-30da-4526-8263-eb70b2902c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus">
+      <UniqueIdentifier>{8322657b-49f4-4053-b59a-00878972dc8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\options">
+      <UniqueIdentifier>{1f37680a-aac2-493b-b3c8-8cd5aa8eda64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\utils">
+      <UniqueIdentifier>{103a501a-466c-422a-8057-a5d1e7d10424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus\color">
+      <UniqueIdentifier>{dfb4ffda-73cb-4245-a9fb-ae611ef001d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus\main">
+      <UniqueIdentifier>{85cf8aa7-efa3-4c5b-8cdc-be76b8bc07aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus\settings">
+      <UniqueIdentifier>{94e7cfd8-50fe-41a9-a39f-49ad1b6bc554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus\visual">
+      <UniqueIdentifier>{a95d4779-c17e-4b80-b91a-37f93bc2f6e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menu\submenus\players">
+      <UniqueIdentifier>{6464fc17-6081-4b78-b628-cc0529d9aecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils\memory">
+      <UniqueIdentifier>{b135122f-d8dd-40fb-951f-e7bdb550e7c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils\input">
+      <UniqueIdentifier>{d4fdcbb0-347e-4e43-b965-6dfb37d256d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

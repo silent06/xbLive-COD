@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine AW", "xbNetwork Engine AW\xbLive Engine AW.vcxproj", "{7C312735-0A2D-4F5E-ADAB-678171AD381A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine BO1", "xbNetwork Engine BO1\xbLive Engine BO1.vcxproj", "{6A0A2287-112A-477D-86BD-B7272BC0588A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine BO2", "xbNetwork Engine BO2\xbLive Engine BO2.vcxproj", "{395EAC92-6EEE-4916-A307-B9755150FAEE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine BO3", "xbNetwork Engine BO3\xbLive Engine BO3.vcxproj", "{6F92E18E-8C68-4FE9-9411-B00E7DB0768D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine GHOST", "xbNetwork Engine GHOST\xbLive Engine GHOST.vcxproj", "{0AD293B8-7483-42F2-8D8B-F0DF14D3A663}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine MW1", "xbNetwork Engine MW1\xbLive Engine MW1.vcxproj", "{938855D7-7038-4BD1-B023-54F2DE156B62}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine MW2", "xbNetwork Engine MW2\xbLive Engine MW2.vcxproj", "{8607CCC8-A54A-4150-9E29-B780CFF17877}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine MW3", "xbNetwork Engine MW3\xbLive Engine MW3.vcxproj", "{54E096F2-BB9E-4D64-AFC9-11EF1D82A6BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xbLive Engine WAW", "xbNetwork Engine WAW\xbLive Engine WAW.vcxproj", "{7748AAA9-B74C-400F-B95D-3018D9D21276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release Retail|Xbox 360 = Release Retail|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C312735-0A2D-4F5E-ADAB-678171AD381A}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{7C312735-0A2D-4F5E-ADAB-678171AD381A}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{6A0A2287-112A-477D-86BD-B7272BC0588A}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{6A0A2287-112A-477D-86BD-B7272BC0588A}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{395EAC92-6EEE-4916-A307-B9755150FAEE}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{395EAC92-6EEE-4916-A307-B9755150FAEE}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{6F92E18E-8C68-4FE9-9411-B00E7DB0768D}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{6F92E18E-8C68-4FE9-9411-B00E7DB0768D}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{0AD293B8-7483-42F2-8D8B-F0DF14D3A663}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{0AD293B8-7483-42F2-8D8B-F0DF14D3A663}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{938855D7-7038-4BD1-B023-54F2DE156B62}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{938855D7-7038-4BD1-B023-54F2DE156B62}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{8607CCC8-A54A-4150-9E29-B780CFF17877}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{8607CCC8-A54A-4150-9E29-B780CFF17877}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{54E096F2-BB9E-4D64-AFC9-11EF1D82A6BC}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{54E096F2-BB9E-4D64-AFC9-11EF1D82A6BC}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+		{7748AAA9-B74C-400F-B95D-3018D9D21276}.Release Retail|Xbox 360.ActiveCfg = Release Retail|Xbox 360
+		{7748AAA9-B74C-400F-B95D-3018D9D21276}.Release Retail|Xbox 360.Build.0 = Release Retail|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59487F71-E876-46B0-8069-BDAA108C78E9}
+	EndGlobalSection
+EndGlobal
