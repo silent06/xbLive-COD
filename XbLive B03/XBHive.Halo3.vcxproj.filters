@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="nativeInvoker.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="natives.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Global.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemHooks.cpp">
+      <Filter>Backend</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Backend</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooking.cpp">
+      <Filter>Backend</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleHooks.cpp">
+      <Filter>Backend</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="nativeInvoker.h">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="natives.h">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemHooks.h">
+      <Filter>Backend</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleHooks.h">
+      <Filter>Backend</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Backend</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooking.h">
+      <Filter>Backend</Filter>
+    </ClInclude>
+    <ClInclude Include="B03_Defines.h" />
+    <ClInclude Include="Vector.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{00f24b77-975c-4fc7-871c-66db1261aa4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Security">
+      <UniqueIdentifier>{a464f01b-56aa-4c54-97da-c6372ce1a0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Backend">
+      <UniqueIdentifier>{eb72a963-1289-437f-86ca-1afd8d146ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{a34706f6-e908-4f4b-9f28-d18c847d50a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config.xml" />
+  </ItemGroup>
+</Project>

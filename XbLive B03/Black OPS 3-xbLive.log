@@ -1,0 +1,115 @@
+[Thu Sep 29 00:54:39 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 00:54:40 2022] [Dev] Applied detours!
+[Thu Sep 29 00:54:40 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 00:54:40 2022] [Dev] Started!
+[Thu Sep 29 00:54:40 2022] [Dev] Applied detours!
+[Thu Sep 29 00:54:40 2022] [Dev] Game initialized!
+[Thu Sep 29 00:55:13 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 00:55:14 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 00:55:15 2022] [Dev] Removed detours!
+[Thu Sep 29 00:55:15 2022] [Dev] Game uninitialized!
+[Thu Sep 29 00:55:15 2022] [Dev] Exiting!
+[Thu Sep 29 01:03:17 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 01:03:17 2022] [Dev] Applied detours!
+[Thu Sep 29 01:03:17 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:03:17 2022] [Dev] Started!
+[Thu Sep 29 01:03:17 2022] [Dev] Applied detours!
+[Thu Sep 29 01:03:17 2022] [Dev] Game initialized!
+[Thu Sep 29 01:04:09 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:04:09 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:04:10 2022] [Dev] Removed detours!
+[Thu Sep 29 01:04:10 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:04:10 2022] [Dev] Exiting!
+[Thu Sep 29 01:07:56 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 01:07:56 2022] [Dev] Applied detours!
+[Thu Sep 29 01:07:56 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:07:56 2022] [Dev] Started!
+[Thu Sep 29 01:07:56 2022] [Dev] Applied detours!
+[Thu Sep 29 01:07:56 2022] [Dev] Game initialized!
+[Thu Sep 29 01:08:42 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:08:42 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:08:43 2022] [Dev] Removed detours!
+[Thu Sep 29 01:08:43 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:08:43 2022] [Dev] Exiting!
+[Thu Sep 29 01:21:53 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 01:21:53 2022] [Dev] Applied detours!
+[Thu Sep 29 01:21:53 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:21:53 2022] [Dev] Started!
+[Thu Sep 29 01:21:53 2022] [Dev] Applied detours!
+[Thu Sep 29 01:21:53 2022] [Dev] Game initialized!
+[Thu Sep 29 01:22:25 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:22:25 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:22:26 2022] [Dev] Removed detours!
+[Thu Sep 29 01:22:26 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:22:26 2022] [Dev] Exiting!
+[Thu Sep 29 01:32:01 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 01:32:01 2022] [Dev] Applied detours!
+[Thu Sep 29 01:32:01 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:32:01 2022] [Dev] Started!
+[Thu Sep 29 01:32:01 2022] [Dev] Applied detours!
+[Thu Sep 29 01:32:01 2022] [Dev] Game initialized!
+[Thu Sep 29 01:33:05 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:33:05 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:33:05 2022] [Info] Unhooked: Address=0x822F53C0
+[Thu Sep 29 01:33:06 2022] [Dev] Removed detours!
+[Thu Sep 29 01:33:06 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:33:06 2022] [Dev] Exiting!
+[Thu Sep 29 01:37:37 2022] [Dev] Native table: 90E6D8D8
+[Thu Sep 29 01:37:37 2022] [Dev] Applied detours!
+[Thu Sep 29 01:37:37 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:37:37 2022] [Dev] Started!
+[Thu Sep 29 01:37:37 2022] [Dev] Applied detours!
+[Thu Sep 29 01:37:37 2022] [Dev] Game initialized!
+[Thu Sep 29 01:38:23 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:38:23 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:38:23 2022] [Info] Unhooked: Address=0x822F53C0
+[Thu Sep 29 01:38:24 2022] [Dev] Removed detours!
+[Thu Sep 29 01:38:24 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:38:24 2022] [Dev] Exiting!
+[Thu Sep 29 01:52:00 2022] [Dev] Native table: 90E6E8D8
+[Thu Sep 29 01:52:00 2022] [Dev] Applied detours!
+[Thu Sep 29 01:52:00 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:52:00 2022] [Dev] Started!
+[Thu Sep 29 01:52:00 2022] [Dev] Applied detours!
+[Thu Sep 29 01:52:00 2022] [Dev] Game initialized!
+[Thu Sep 29 01:52:42 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:52:42 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:52:42 2022] [Info] Unhooked: Address=0x822F53C0
+[Thu Sep 29 01:52:43 2022] [Dev] Removed detours!
+[Thu Sep 29 01:52:43 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:52:43 2022] [Dev] Exiting!
+[Thu Sep 29 01:56:39 2022] [Dev] Native table: 90E6E8D8
+[Thu Sep 29 01:56:39 2022] [Dev] Applied detours!
+[Thu Sep 29 01:56:39 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 01:56:39 2022] [Dev] Started!
+[Thu Sep 29 01:56:39 2022] [Dev] Applied detours!
+[Thu Sep 29 01:56:39 2022] [Dev] Game initialized!
+[Thu Sep 29 01:57:21 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 01:57:21 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 01:57:21 2022] [Info] Unhooked: Address=0x822F53C0
+[Thu Sep 29 01:57:22 2022] [Dev] Removed detours!
+[Thu Sep 29 01:57:22 2022] [Dev] Game uninitialized!
+[Thu Sep 29 01:57:22 2022] [Dev] Exiting!
+[Thu Sep 29 02:10:21 2022] [Dev] Native table: 90E6E8D8
+[Thu Sep 29 02:10:21 2022] [Dev] Applied detours!
+[Thu Sep 29 02:10:21 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 02:10:21 2022] [Dev] Started!
+[Thu Sep 29 02:10:21 2022] [Dev] Applied detours!
+[Thu Sep 29 02:10:21 2022] [Dev] Game initialized!
+[Thu Sep 29 02:17:06 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 02:17:07 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 02:17:08 2022] [Dev] Removed detours!
+[Thu Sep 29 02:17:08 2022] [Dev] Game uninitialized!
+[Thu Sep 29 02:17:08 2022] [Dev] Exiting!
+[Thu Sep 29 02:29:20 2022] [Dev] Native table: 90E6E8D8
+[Thu Sep 29 02:29:20 2022] [Dev] Applied detours!
+[Thu Sep 29 02:29:20 2022] [Dev] Mounted path successfully!
+[Thu Sep 29 02:29:20 2022] [Dev] Started!
+[Thu Sep 29 02:29:20 2022] [Dev] Applied detours!
+[Thu Sep 29 02:29:20 2022] [Dev] Game initialized!
+[Thu Sep 29 02:30:33 2022] [Dev] ExTerminateTitleProcess!
+[Thu Sep 29 02:30:33 2022] [Dev] Changing title! Shutdown initiated!
+[Thu Sep 29 02:30:33 2022] [Info] Unhooked: Address=0x822F53C0
+[Thu Sep 29 02:30:34 2022] [Dev] Removed detours!
+[Thu Sep 29 02:30:34 2022] [Dev] Game uninitialized!
+[Thu Sep 29 02:30:34 2022] [Dev] Exiting!

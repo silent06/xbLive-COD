@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Game.cpp
+  Global.cpp
+  Hooking.cpp
+  Interface.cpp
+  Log.cpp
+  main.cpp
+  nativeInvoker.cpp
+  natives.cpp
+  SystemHooks.cpp
+  TitleHooks.cpp
+  Utils.cpp
+  Generating code
+  Finished generating code

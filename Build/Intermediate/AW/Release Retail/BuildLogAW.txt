@@ -1,0 +1,108 @@
+﻿  hooking.cpp
+  systemHooks.cpp
+  titleHooks.cpp
+  engine.cpp
+  game.cpp
+  menu.cpp
+  buttonOption.cpp
+  colorOption.cpp
+  numberOption.cpp
+  option.cpp
+  scrollOption.cpp
+  submenuOption.cpp
+  toggleOption.cpp
+  renderer.cpp
+  submenu.cpp
+  submenuHandler.cpp
+  aimbotMenu.cpp
+  colorEditorMenu.cpp
+  hvhMenu.cpp
+  mainMenu.cpp
+  gamertagManagerMenu.cpp
+  gamertagsMenu.cpp
+  playersMenu.cpp
+  editPlayerMenu.cpp
+  settingsMenu.cpp
+  configMenu.cpp
+  visualMenu.cpp
+  compassMenu.cpp
+  crosshairMenu.cpp
+  espMenu.cpp
+  gameInfoMenu.cpp
+  indicatorMenu.cpp
+  functionObfuscation.cpp
+  nativeInvoker.cpp
+  natives.cpp
+  fibers.cpp
+  global.cpp
+  controller.cpp
+  interface.cpp
+  log.cpp
+  memoryCacher.cpp
+  patches.cpp
+  utils.cpp
+  xbLive.cpp
+  stdafx.cpp
+  Generating code
+  Finished generating code
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.15712.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.15712.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.3048.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.3048.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.3100.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.3100.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.9796.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.9796.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\cl.command.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\CL.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\cl.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\link.command.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\link.read.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\link.write.1.tlog
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\aimbotMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\buttonOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\colorEditorMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\colorOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\compassMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\configMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\controller.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\crosshairMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\editPlayerMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\engine.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\espMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\fibers.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\functionObfuscation.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\game.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\gameInfoMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\gamertagManagerMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\gamertagsMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\global.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\hooking.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\hvhMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\indicatorMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\interface.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\log.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\mainMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\memoryCacher.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\menu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\nativeInvoker.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\natives.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\numberOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\option.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\patches.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\playersMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\renderer.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\scrollOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\settingsMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\stdafx.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\submenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\submenuHandler.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\submenuOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\systemHooks.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\titleHooks.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\toggleOption.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\utils.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\visualMenu.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\Intermediate\AW\Release Retail\xbLive.obj
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\ENGINE.AW.xdb
+  Deleted file - C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\Build\ENGINE.AW.dll

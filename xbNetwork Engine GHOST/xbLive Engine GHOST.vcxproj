@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release Retail|Xbox 360">
+      <Configuration>Release Retail</Configuration>
+      <Platform>Xbox 360</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Engine.def" />
+    <None Include="Engine.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\backend\hooking.cpp" />
+    <ClCompile Include="src\backend\systemHooks.cpp" />
+    <ClCompile Include="src\backend\titleHooks.cpp" />
+    <ClCompile Include="src\engine\engine.cpp" />
+    <ClCompile Include="src\menu\game.cpp" />
+    <ClCompile Include="src\menu\menu.cpp" />
+    <ClCompile Include="src\menu\options\buttonOption.cpp" />
+    <ClCompile Include="src\menu\options\colorOption.cpp" />
+    <ClCompile Include="src\menu\options\numberOption.cpp" />
+    <ClCompile Include="src\menu\options\option.cpp" />
+    <ClCompile Include="src\menu\options\scrollOption.cpp" />
+    <ClCompile Include="src\menu\options\submenuOption.cpp" />
+    <ClCompile Include="src\menu\options\toggleOption.cpp" />
+    <ClCompile Include="src\menu\renderer.cpp" />
+    <ClCompile Include="src\menu\submenu.cpp" />
+    <ClCompile Include="src\menu\submenuHandler.cpp" />
+    <ClCompile Include="src\menu\submenus\aimbotMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\color\colorEditorMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\hvhMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\mainMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\main\gamertagManagerMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\main\gamertagsMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\playersMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\players\editPlayerMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\settingsMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\settings\configMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visualMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visual\compassMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visual\crosshairMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visual\espMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visual\gameInfoMenu.cpp" />
+    <ClCompile Include="src\menu\submenus\visual\indicatorMenu.cpp" />
+    <ClCompile Include="src\security\functionObfuscation.cpp" />
+    <ClCompile Include="src\security\nativeInvoker.cpp" />
+    <ClCompile Include="src\security\natives.cpp" />
+    <ClCompile Include="src\utils\fibers.cpp" />
+    <ClCompile Include="src\utils\global.cpp" />
+    <ClCompile Include="src\utils\input\controller.cpp" />
+    <ClCompile Include="src\utils\interface.cpp" />
+    <ClCompile Include="src\utils\log.cpp" />
+    <ClCompile Include="src\utils\memory\memoryCacher.cpp" />
+    <ClCompile Include="src\utils\patches.cpp" />
+    <ClCompile Include="src\utils\utils.cpp" />
+    <ClCompile Include="src\xbLive.cpp" />
+    <ClCompile Include="src\stdafx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\backend\hooking.h" />
+    <ClInclude Include="src\backend\systemHooks.h" />
+    <ClInclude Include="src\backend\titleHooks.h" />
+    <ClInclude Include="src\engine\engine.h" />
+    <ClInclude Include="src\menu\game.h" />
+    <ClInclude Include="src\menu\menu.h" />
+    <ClInclude Include="src\menu\options\buttonOption.h" />
+    <ClInclude Include="src\menu\options\colorOption.h" />
+    <ClInclude Include="src\menu\options\numberOption.h" />
+    <ClInclude Include="src\menu\options\option.h" />
+    <ClInclude Include="src\menu\options\scrollOption.h" />
+    <ClInclude Include="src\menu\options\submenuOption.h" />
+    <ClInclude Include="src\menu\options\toggleOption.h" />
+    <ClInclude Include="src\menu\renderer.h" />
+    <ClInclude Include="src\menu\submenu.h" />
+    <ClInclude Include="src\menu\submenuHandler.h" />
+    <ClInclude Include="src\menu\submenus\aimbotMenu.h" />
+    <ClInclude Include="src\menu\submenus\color\colorEditorMenu.h" />
+    <ClInclude Include="src\menu\submenus\hvhMenu.h" />
+    <ClInclude Include="src\menu\submenus\mainMenu.h" />
+    <ClInclude Include="src\menu\submenus\main\gamertagManagerMenu.h" />
+    <ClInclude Include="src\menu\submenus\main\gamertagsMenu.h" />
+    <ClInclude Include="src\menu\submenus\playersMenu.h" />
+    <ClInclude Include="src\menu\submenus\players\editPlayerMenu.h" />
+    <ClInclude Include="src\menu\submenus\settingsMenu.h" />
+    <ClInclude Include="src\menu\submenus\settings\configMenu.h" />
+    <ClInclude Include="src\menu\submenus\visualMenu.h" />
+    <ClInclude Include="src\menu\submenus\visual\compassMenu.h" />
+    <ClInclude Include="src\menu\submenus\visual\crosshairMenu.h" />
+    <ClInclude Include="src\menu\submenus\visual\espMenu.h" />
+    <ClInclude Include="src\menu\submenus\visual\gameInfoMenu.h" />
+    <ClInclude Include="src\menu\submenus\visual\indicatorMenu.h" />
+    <ClInclude Include="src\menu\utils\menuFunctions.h" />
+    <ClInclude Include="src\security\functionObfuscation.h" />
+    <ClInclude Include="src\security\nativeInvoker.h" />
+    <ClInclude Include="src\security\natives.h" />
+    <ClInclude Include="src\stdafx.h" />
+    <ClInclude Include="src\utils\enums.h" />
+    <ClInclude Include="src\utils\fibers.h" />
+    <ClInclude Include="src\utils\global.h" />
+    <ClInclude Include="src\utils\ini.h" />
+    <ClInclude Include="src\utils\input\controller.h" />
+    <ClInclude Include="src\utils\interface.h" />
+    <ClInclude Include="src\utils\log.h" />
+    <ClInclude Include="src\utils\memory\memoryCacher.h" />
+    <ClInclude Include="src\utils\patches.h" />
+    <ClInclude Include="src\utils\structs.h" />
+    <ClInclude Include="src\utils\utils.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0AD293B8-7483-42F2-8D8B-F0DF14D3A663}</ProjectGuid>
+    <Keyword>Xbox360Proj</Keyword>
+    <ProjectName>xbLive Engine GHOST</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release Retail|Xbox 360'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <BuildLogFile>$(IntDir)BuildLogGHOST.txt</BuildLogFile>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release Retail|Xbox 360'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release Retail|Xbox 360'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutputFile>$(SolutionDir)Build\ENGINE.GHOST.dll</OutputFile>
+    <PostBuildEventUseInBuild>true</PostBuildEventUseInBuild>
+    <ImageXexOutput>$(SolutionDir)Build\ENGINE.GHOST.xex</ImageXexOutput>
+    <RemoteRoot>HDD:\</RemoteRoot>
+    <OutDir>$(SolutionDir)Build\</OutDir>
+    <IntDir>$(SolutionDir)Build\Intermediate\GHOST\$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release Retail|Xbox 360'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <Optimization>Full</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <StringPooling>true</StringPooling>
+      <FavorSizeOrSpeed>Size</FavorSizeOrSpeed>
+      <PrecompiledHeaderOutputFile>$(ProjectDir)..\Build\$(ProjectName).pch</PrecompiledHeaderOutputFile>
+      <PreprocessorDefinitions>NDEBUG;_XBOX;LTCG</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>xkelib;src/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <CallAttributedProfiling>Disabled</CallAttributedProfiling>
+      <TrapIntegerDividesOptimization>false</TrapIntegerDividesOptimization>
+      <PreschedulingOptimization>false</PreschedulingOptimization>
+      <InlineAssemblyOptimization>false</InlineAssemblyOptimization>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <RegisterReservation>false</RegisterReservation>
+      <AnalyzeStalls>false</AnalyzeStalls>
+      <IntrinsicFunctions>false</IntrinsicFunctions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <ExceptionHandling>false</ExceptionHandling>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ProgramDatabaseFile>$(SolutionDir)Build\ENGINE.GHOST.pdb</ProgramDatabaseFile>
+      <SetChecksum>true</SetChecksum>
+      <AdditionalDependencies>xapilib.lib;d3d9ltcg.lib;d3dx9.lib;xgraphics.lib;xboxkrnl.lib;xnet.lib;xaudio2.lib;xact3ltcg.lib;x3daudioltcg.lib;xmcoreltcg.lib;vcomp.lib;xhttp.lib</AdditionalDependencies>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <AdditionalLibraryDirectories>xkelib;</AdditionalLibraryDirectories>
+      <EntryPointSymbol>SecureDllMain</EntryPointSymbol>
+      <FixedBaseAddress>
+      </FixedBaseAddress>
+      <StackCommitSize>262144</StackCommitSize>
+      <AdditionalOptions>/dll /ALIGN:128,4096 %(AdditionalOptions)</AdditionalOptions>
+      <BaseAddress>
+      </BaseAddress>
+      <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+    </Link>
+    <ImageXex>
+      <ConfigurationFile>Engine.xml</ConfigurationFile>
+      <RequireFullExperience>false</RequireFullExperience>
+    </ImageXex>
+    <Deploy>
+      <DeploymentType>CopyToHardDrive</DeploymentType>
+      <ExcludedFromBuild>true</ExcludedFromBuild>
+    </Deploy>
+    <PostBuildEvent>
+      <Command>call "$(SolutionDir)Build\post.bat"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

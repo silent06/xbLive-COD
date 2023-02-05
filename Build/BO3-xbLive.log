@@ -1,0 +1,10 @@
+[Sun Jun 12 00:54:39 2022] [Info] [Log] Log allocated
+[Sun Jun 12 00:54:39 2022] [Info] [Service] Class version 1.0
+[Sun Jun 12 00:54:39 2022] [Dev] Applied detours!
+[Sun Jun 12 00:54:39 2022] [Dev] Mounted path successfully!
+[Sun Jun 12 00:54:39 2022] [Dev] Started!
+[Sun Jun 12 00:54:39 2022] [Dev] cg_hudGrenadePointerWidth: AA06CA82
+
+[Sun Jun 12 00:54:39 2022] [Dev] Hooked: Address=0x822112F0 Stub=0x91C8EBB8
+[Sun Jun 12 00:54:39 2022] [Dev] Applied detours!
+[Sun Jun 12 00:54:39 2022] [Dev] Game initialized!

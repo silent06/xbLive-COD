@@ -1,0 +1,18 @@
+﻿  hooking.cpp
+  systemHooks.cpp
+  titleHooks.cpp
+  engine.cpp
+  game.cpp
+  menu.cpp
+  buttonOption.cpp
+  colorOption.cpp
+  Compiler terminating.  Please wait........... Abort complete.
+  Compiler terminating.  Please wait........... Abort complete.
+  Compiler terminating.  Please wait.. Abort complete.
+  Compiler terminating.  Please wait. Abort complete.
+  Compiler terminating.  Please wait. Abort complete.
+  Compiler terminating.  Please wait. Abort complete.
+  Compiler terminating.  Please wait. Abort complete.
+  Compiler terminating.  Please wait. Abort complete.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Xbox 360\Microsoft.Cpp.Xbox 360.Targets(193,5): warning MSB4220: Waiting for the currently executing task "CL" to cancel.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Xbox 360\Microsoft.Cpp.Xbox 360.Targets(193,5): error MSB6006: "CL.exe" exited with code 4.

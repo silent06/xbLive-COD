@@ -1,0 +1,247 @@
+﻿  hooking.cpp
+  systemHooks.cpp
+  titleHooks.cpp
+  engine.cpp
+  game.cpp
+  menu.cpp
+  buttonOption.cpp
+  colorOption.cpp
+  numberOption.cpp
+  option.cpp
+  scrollOption.cpp
+  submenuOption.cpp
+  toggleOption.cpp
+  renderer.cpp
+  submenu.cpp
+  submenuHandler.cpp
+  aimbotMenu.cpp
+  colorEditorMenu.cpp
+  hvhMenu.cpp
+  mainMenu.cpp
+  gamertagManagerMenu.cpp
+  gamertagsMenu.cpp
+  playersMenu.cpp
+  editPlayerMenu.cpp
+  settingsMenu.cpp
+  configMenu.cpp
+  visualMenu.cpp
+  crosshairMenu.cpp
+  espMenu.cpp
+  gameInfoMenu.cpp
+  indicatorMenu.cpp
+  functionObfuscation.cpp
+  nativeInvoker.cpp
+  natives.cpp
+  fibers.cpp
+  global.cpp
+  controller.cpp
+  interface.cpp
+  log.cpp
+  memoryCacher.cpp
+  patches.cpp
+  utils.cpp
+  xbLive.cpp
+  stdafx.cpp
+  Generating code
+  Finished generating code
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20588.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20588.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20596.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20596.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20604.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20604.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20636.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20636.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20644.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20644.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20652.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20652.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20660.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.20660.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.4704.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.4704.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO1\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.10140.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.10140.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.12568.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.12568.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.12648.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.12648.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.14048.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.14048.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.15404.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.15404.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.15576.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.15576.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.16236.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.16236.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.19544.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.19544.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO2\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20540.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20540.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20580.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20580.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20612.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20612.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20620.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20620.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20628.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20628.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20668.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20668.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20680.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20680.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20704.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.20704.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\BO3\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.10428.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.10428.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.15392.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.15392.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.15992.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.15992.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.19072.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.19072.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.2812.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.2812.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.3840.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.3840.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.7680.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.7680.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.9772.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.9772.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\link.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\link.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\link.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.11744.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.11744.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.13768.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.13768.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.14316.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.14316.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.15284.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.15284.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.15940.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.15940.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.16020.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.16020.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.19024.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.19024.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.244.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.244.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW1\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.1276.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.1276.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.16992.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.16992.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.18328.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.18328.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20120.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20120.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20488.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20488.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20496.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20496.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20528.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20528.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20572.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.20572.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW2\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14576.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14576.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14724.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14724.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14964.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.14964.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.15428.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.15428.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.16416.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.16416.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.16764.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.16764.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.19604.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.19604.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.7720.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.7720.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\MW3\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.12680.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.12680.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.15944.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.15944.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.17716.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.17716.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.18020.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.18020.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.19716.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.19716.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.19732.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.19732.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.2856.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.2856.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.5040.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.5040.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\cl.command.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\CL.read.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\WAW\Release Retail\cl.write.1.tlog
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\aimbotMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\buttonOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\colorEditorMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\colorOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\configMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\controller.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\crosshairMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\editPlayerMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\engine.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\espMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\fibers.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\functionObfuscation.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\game.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\gameInfoMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\gamertagManagerMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\gamertagsMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\global.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\hooking.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\hvhMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\indicatorMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\interface.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\log.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\mainMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\memoryCacher.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\menu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\nativeInvoker.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\natives.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\numberOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\option.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\patches.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\playersMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\renderer.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\scrollOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\settingsMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\stdafx.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\submenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\submenuHandler.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\submenuOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\systemHooks.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\titleHooks.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\toggleOption.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\utils.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\visualMenu.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\Intermediate\GHOST\Release Retail\xbLive.obj
+  Deleted file - Z:\xbLive\Stealth-COD\Build\ENGINE.GHOST.xdb
+  Deleted file - Z:\xbLive\Stealth-COD\Build\ENGINE.GHOST.dll
