@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8e80a0c0-fd5e-45bb-885f-8a37159085f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1965d0c7-a56e-4de0-b055-475b690353cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Engine.xml" />
+    <None Include="Engine.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\stdafx.cpp" />
+    <ClCompile Include="src\xbLive.cpp" />
+    <ClCompile Include="src\utils\log.cpp" />
+    <ClCompile Include="src\utils\global.cpp" />
+    <ClCompile Include="src\utils\patches.cpp" />
+    <ClCompile Include="src\utils\utils.cpp" />
+    <ClCompile Include="src\security\natives.cpp" />
+    <ClCompile Include="src\security\nativeInvoker.cpp" />
+    <ClCompile Include="src\backend\systemHooks.cpp" />
+    <ClCompile Include="src\backend\hooking.cpp" />
+    <ClCompile Include="src\menu\game.cpp" />
+    <ClCompile Include="src\backend\titleHooks.cpp" />
+    <ClCompile Include="src\security\functionObfuscation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\stdafx.h" />
+    <ClInclude Include="src\utils\log.h" />
+    <ClInclude Include="src\utils\global.h" />
+    <ClInclude Include="src\utils\patches.h" />
+    <ClInclude Include="src\utils\utils.h" />
+    <ClInclude Include="src\utils\structs.h" />
+    <ClInclude Include="src\security\natives.h" />
+    <ClInclude Include="src\security\nativeInvoker.h" />
+    <ClInclude Include="src\backend\systemHooks.h" />
+    <ClInclude Include="src\backend\hooking.h" />
+    <ClInclude Include="src\menu\game.h" />
+    <ClInclude Include="src\backend\titleHooks.h" />
+    <ClInclude Include="src\security\functionObfuscation.h" />
+  </ItemGroup>
+</Project>
