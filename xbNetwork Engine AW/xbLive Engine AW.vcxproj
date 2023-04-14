@@ -145,7 +145,7 @@
       <FavorSizeOrSpeed>Size</FavorSizeOrSpeed>
       <PrecompiledHeaderOutputFile>$(ProjectDir)..\Build\$(ProjectName).pch</PrecompiledHeaderOutputFile>
       <PreprocessorDefinitions>NDEBUG;_XBOX;LTCG</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\xbNetwork Engine AW\xkelib;src/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>xkelib;src/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <InlineFunctionExpansion>Default</InlineFunctionExpansion>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <CallAttributedProfiling>Disabled</CallAttributedProfiling>
@@ -169,7 +169,7 @@
       <AdditionalDependencies>xapilib.lib;d3d9ltcg.lib;d3dx9.lib;xgraphics.lib;xboxkrnl.lib;xnet.lib;xaudio2.lib;xact3ltcg.lib;x3daudioltcg.lib;xmcoreltcg.lib;vcomp.lib;xhttp.lib</AdditionalDependencies>
       <ModuleDefinitionFile>
       </ModuleDefinitionFile>
-      <AdditionalLibraryDirectories>C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\Stealth-COD\xbNetwork Engine AW\xkelib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>xkelib</AdditionalLibraryDirectories>
       <EntryPointSymbol>SecureDllMain</EntryPointSymbol>
       <FixedBaseAddress>
       </FixedBaseAddress>
